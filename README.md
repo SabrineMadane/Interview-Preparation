@@ -1,2 +1,2 @@
 # Interview-Preparation
-Application de préparation d'entretiens de PFE avec un bot générant des questions en utilisant JHipster.
+Application pour la  préparation aux entretiens de PFE avec un boot générant des questions en utilisant JHipster.
